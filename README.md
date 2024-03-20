@@ -1,9 +1,9 @@
-# TESI-MAGISTRALE
+# SETUP SERVER
 
 Passi iniziali
 ```sh
 git clone https://github.com/paolomastroo/setup.git
-cd setup-main
+cd setup
 ```
 
 Setup del server 
